@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\CinemaBookingApp\\CinemaBookingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B77E655-D8F0-4FDD-8B22-8577DF0DF485}|CinemaBookingApp\\CinemaBookingApp.csproj|t:\\cinemabookingapp\\cinemabookingapp\\cinemabookingapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B77E655-D8F0-4FDD-8B22-8577DF0DF485}|CinemaBookingApp\\CinemaBookingApp.csproj|solutionrelative:cinemabookingapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B77E655-D8F0-4FDD-8B22-8577DF0DF485}|CinemaBookingApp\\CinemaBookingApp.csproj|t:\\cinemabookingapp\\cinemabookingapp\\cinemabookingapp\\repositories\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B77E655-D8F0-4FDD-8B22-8577DF0DF485}|CinemaBookingApp\\CinemaBookingApp.csproj|solutionrelative:cinemabookingapp\\repositories\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B77E655-D8F0-4FDD-8B22-8577DF0DF485}|CinemaBookingApp\\CinemaBookingApp.csproj|t:\\cinemabookingapp\\cinemabookingapp\\cinemabookingapp\\repositories\\implementations\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B77E655-D8F0-4FDD-8B22-8577DF0DF485}|CinemaBookingApp\\CinemaBookingApp.csproj|solutionrelative:cinemabookingapp\\repositories\\implementations\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B77E655-D8F0-4FDD-8B22-8577DF0DF485}|CinemaBookingApp\\CinemaBookingApp.csproj|t:\\cinemabookingapp\\cinemabookingapp\\cinemabookingapp\\services\\implementations\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B77E655-D8F0-4FDD-8B22-8577DF0DF485}|CinemaBookingApp\\CinemaBookingApp.csproj|solutionrelative:cinemabookingapp\\services\\implementations\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B77E655-D8F0-4FDD-8B22-8577DF0DF485}|CinemaBookingApp\\CinemaBookingApp.csproj|t:\\cinemabookingapp\\cinemabookingapp\\cinemabookingapp\\services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B77E655-D8F0-4FDD-8B22-8577DF0DF485}|CinemaBookingApp\\CinemaBookingApp.csproj|solutionrelative:cinemabookingapp\\services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B77E655-D8F0-4FDD-8B22-8577DF0DF485}|CinemaBookingApp\\CinemaBookingApp.csproj|t:\\cinemabookingapp\\cinemabookingapp\\cinemabookingapp\\models\\dtos\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B77E655-D8F0-4FDD-8B22-8577DF0DF485}|CinemaBookingApp\\CinemaBookingApp.csproj|solutionrelative:cinemabookingapp\\models\\dtos\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "T:\\CinemaBookingApp\\CinemaBookingApp\\CinemaBookingApp\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "CinemaBookingApp\\Controllers\\MovieController.cs",
+              "ToolTip": "T:\\CinemaBookingApp\\CinemaBookingApp\\CinemaBookingApp\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "CinemaBookingApp\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wCkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:35:43.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "T:\\CinemaBookingApp\\CinemaBookingApp\\CinemaBookingApp\\Services\\Implementations\\MovieService.cs",
+              "RelativeDocumentMoniker": "CinemaBookingApp\\Services\\Implementations\\MovieService.cs",
+              "ToolTip": "T:\\CinemaBookingApp\\CinemaBookingApp\\CinemaBookingApp\\Services\\Implementations\\MovieService.cs",
+              "RelativeToolTip": "CinemaBookingApp\\Services\\Implementations\\MovieService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:34:09.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "T:\\CinemaBookingApp\\CinemaBookingApp\\CinemaBookingApp\\Services\\Interfaces\\IMovieService.cs",
+              "RelativeDocumentMoniker": "CinemaBookingApp\\Services\\Interfaces\\IMovieService.cs",
+              "ToolTip": "T:\\CinemaBookingApp\\CinemaBookingApp\\CinemaBookingApp\\Services\\Interfaces\\IMovieService.cs",
+              "RelativeToolTip": "CinemaBookingApp\\Services\\Interfaces\\IMovieService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:33:45.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "T:\\CinemaBookingApp\\CinemaBookingApp\\CinemaBookingApp\\Repositories\\Implementations\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "CinemaBookingApp\\Repositories\\Implementations\\MovieRepository.cs",
+              "ToolTip": "T:\\CinemaBookingApp\\CinemaBookingApp\\CinemaBookingApp\\Repositories\\Implementations\\MovieRepository.cs",
+              "RelativeToolTip": "CinemaBookingApp\\Repositories\\Implementations\\MovieRepository.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAADwv5UAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:21:28.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "T:\\CinemaBookingApp\\CinemaBookingApp\\CinemaBookingApp\\Models\\DTOs\\Movie.cs",
+              "RelativeDocumentMoniker": "CinemaBookingApp\\Models\\DTOs\\Movie.cs",
+              "ToolTip": "T:\\CinemaBookingApp\\CinemaBookingApp\\CinemaBookingApp\\Models\\DTOs\\Movie.cs",
+              "RelativeToolTip": "CinemaBookingApp\\Models\\DTOs\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:19:59.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "T:\\CinemaBookingApp\\CinemaBookingApp\\CinemaBookingApp\\Repositories\\Interfaces\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "CinemaBookingApp\\Repositories\\Interfaces\\IMovieRepository.cs",
+              "ToolTip": "T:\\CinemaBookingApp\\CinemaBookingApp\\CinemaBookingApp\\Repositories\\Interfaces\\IMovieRepository.cs",
+              "RelativeToolTip": "CinemaBookingApp\\Repositories\\Interfaces\\IMovieRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:19:55.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
